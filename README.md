@@ -24,12 +24,17 @@ The goal of this project is to develop and compare the performance of two DRL al
 - **DRL Algorithms**: PPO and A2C algorithms are implemented and compared.
 - **Visualization**: Performance comparison of PPO and A2C algorithms.
 
-##Results
-PPO RESULTS
+## Results:
+## PPO RESULTS
+
 ![download](https://github.com/AdamHassouni/DRL_Trading_Bot/assets/122727246/3afe5508-6181-425d-b997-0dc6402d0bc7)
-A2C RESULTS
+
+## A2C RESULTS
+
 ![download](https://github.com/AdamHassouni/DRL_Trading_Bot/assets/122727246/8c1ccaa2-9ad0-49bb-b29b-b5e9d16079d5)
-PPO vs A2C
+
+## PPO vs A2C
+
 ![download](https://github.com/AdamHassouni/DRL_Trading_Bot/assets/122727246/910da940-6162-48c4-80bd-d7f23bf75cc0)
 
 
