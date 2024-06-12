@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning Trading Bot
 
-This repository contains the code for a Deep Reinforcement Learning (DRL) trading bot developed using Python. The bot is trained and tested on the S&P 500 index and selected tickers, utilizing the Proximal Policy Optimization (PPO) and Advantage Actor-Critic (A2C) algorithms.
+This repository contains the code for a Deep Reinforcement Learning (DRL) trading bot developed using Python. The bot is trained and tested on the NASDAQ index and selected tickers, utilizing the Proximal Policy Optimization (PPO) and Advantage Actor-Critic (A2C) algorithms.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ This repository contains the code for a Deep Reinforcement Learning (DRL) tradin
 
 ## Introduction
 
-The goal of this project is to develop and compare the performance of two DRL algorithms (PPO and A2C) for trading the S&P 500 index. The bot uses custom indicators such as Simple Moving Average (SMA), Relative Strength Index (RSI), and On-Balance Volume (OBV) for decision making.
+The goal of this project is to develop and compare the performance of two DRL algorithms (PPO and A2C) for trading the NASDAQ index. The bot uses custom indicators such as Simple Moving Average (SMA), Relative Strength Index (RSI), and On-Balance Volume (OBV) for decision making.
 
 ## Features
 
-- **Custom Environment**: The environment is tailored for trading with the S&P 500 index and selected tickers.
+- **Custom Environment**: The environment is tailored for trading with the NASDAQ index and selected tickers.
 - **Custom Indicators**: SMA, RSI, and OBV are used as input features.
 - **DRL Algorithms**: PPO and A2C algorithms are implemented and compared.
 - **Visualization**: Performance comparison of PPO and A2C algorithms.
